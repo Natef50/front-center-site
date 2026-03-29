@@ -17,7 +17,7 @@ export default function Home() {
           <a href="#booking">
             <button style={{ padding: 12, marginRight: 10 }}>Get a Quote</button>
           </a>
-          <a href="sms:+1626XXXXXXX">
+          <a href="sms:+4242410570">
             <button style={{ padding: 12 }}>Text Us</button>
           </a>
         </div>
